@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @haroonnadir is a professional with a broad set of skills in ✨ software, web development ✨, speaking among many other God-given talents.
+-👋 Hi, I’m @haroonnadir is a professional with a broad set of skills in ✨ software, web development ✨, speaking among many other God-given talents.
 
 -I am experienced in application and web development using PHP, JavaScript, SQL Database services. I have a working experience with Model View Controller (MVC), and have been involved in maintaining versions of source code using GitHub.I have also designed and developed master pages, validation controls, CSS files using technologies like AJAX Toolkit, JQuery, JavaScript, XML and HTML.
 
