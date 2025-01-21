@@ -1,4 +1,6 @@
+
 <h1 align="center">Hi 👋, I'm Haroon Nadir</h1>
+<h1 align="center">Father Name Nadir Khan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan-)</h3>
 <img align="right" alt="code" width="400" src="https://media.giphy.com/media/UcK7JalnjCz0k/giphy.gif?cid=790b7611fliwwwdgmdssnb0zfyxhfbd2izdagqgs0qct4c7p&ep=v1_gifs_search&rid=giphy.gif&ct=g"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haroonnadir&label=Profile%20views&color=0e75b6&style=flat" alt="haroonnadir" /> </p>
