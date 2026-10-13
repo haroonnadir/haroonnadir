@@ -1,88 +1,104 @@
-<h1 align="center">Hi 👋, I'm Haroon Nadir</h1>
-<h3 align="center">A passionate web/app developer from Pakistan 🇵🇰</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/UcK7JalnjCz0k/giphy.gif" width="400" alt="Coding GIF" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0e75b6,100:6f42c1&height=260&section=header&text=HAROON%20NADIR&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Web%20%26%20App%20Developer%20%E2%80%A2%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=62&descSize=20" alt="Haroon Nadir" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=haroonnadir&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<a href="https://github.com/haroonnadir">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=640&lines=%3E+Full-stack+mindset%2C+clean+code+%E2%9C%A8;%3E+Working+with+Python+%26+Node.js+%F0%9F%90%8D;%3E+Learning+React+%26+Laravel;%3E+Turning+ideas+into+products+%F0%9F%9A%80;%3E+Always+learning%2C+always+shipping" alt="Typing" />
+</a>
 
-<p align="center">
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-2ea44f?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to collaboration" />
+<img src="https://komarev.com/ghpvc/?username=haroonnadir&label=Views&color=0e75b6&style=for-the-badge" alt="Views" />
+<a href="https://github.com/haroonnadir?tab=followers"><img src="https://img.shields.io/github/followers/haroonnadir?style=for-the-badge&logo=github&color=6f42c1" alt="Followers" /></a>
+
+<br/><br/>
+
+<a href="mailto:haroonnadir034@gmail.com"><img src="https://img.shields.io/badge/Gmail-haroonnadir034%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://github.com/haroonnadir"><img src="https://img.shields.io/badge/GitHub-haroonnadir-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+</div>
+
+<br/>
+
+## 👨‍💻 &nbsp;Who Am I?
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+I'm a **web & app developer from Pakistan** who loves building clean, fast and useful things on the internet.
+
+| | |
+|---|---|
+| 🔭 **Working on** | Python & Node.js projects |
+| 🌱 **Learning** | React · Laravel |
+| 💬 **Ask me about** | Python · Node.js · JS · PHP · React · Laravel |
+| 📫 **Reach me** | haroonnadir034@gmail.com |
+| ⚡ **Fun fact** | Coffee in, code out ☕ |
+
+</td>
+<td width="45%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/UcK7JalnjCz0k/giphy.gif" width="320" alt="Coding" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🧰 &nbsp;Tech Stack
+
+<div align="center">
+
+| Frontend | Backend | Database & Cloud | Tools |
+|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=html,css,js,react&perline=4" /> | <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,php,laravel&perline=3" /> | <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&perline=3" /> | <img src="https://skillicons.dev/icons?i=git,figma,linux,bash&perline=4" /> |
+
+</div>
+
+<br/>
+
+## 📈 &nbsp;GitHub Analytics
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=haroonnadir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" alt="Stats" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haroonnadir&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Languages" />
+
+<img src="https://streak-stats.demolab.com?user=haroonnadir&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=haroonnadir&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" alt="Activity graph" />
+
+</div>
+
+<br/>
+
+## 🏆 &nbsp;Trophies
+
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=haroonnadir" alt="GitHub Profile Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=haroonnadir&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=12" alt="Trophies" />
   </a>
-</p>
+</div>
 
----
+<br/>
 
-### 🚀 About Me
+## 🤝 &nbsp;Let's Work Together
 
-- 🔭 I’m currently working on **web/app development**
-- 🌱 I’m currently learning **React** and **Laravel**
-- 👨‍💻 All of my projects are available at [my GitHub profile](https://github.com/haroonnadir/)
-- 📝 I regularly write articles on [GitHub](https://github.com/haroonnadir/)
-- 💬 Ask me about **HTML, CSS, JavaScript, PHP, React, Laravel**
-- 📫 Reach me at **haroonnadir034@gmail.com**
-- 📄 Know more about my experiences at [GitHub](https://github.com/haroonnadir/)
+<div align="center">
 
----
+Have an idea or a project? Let's build it.
 
-### 🌐 Connect with Me
+<a href="mailto:haroonnadir034@gmail.com"><img src="https://img.shields.io/badge/Send%20me%20an%20email-0e75b6?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email me" /></a>
 
-<!-- You can add social icons here if needed -->
-<!-- Example:
-<p>
-  <a href="https://linkedin.com/in/your-link" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" /></a>
-</p>
--->
+<br/><br/>
 
----
+<a href="https://www.buymeacoffee.com/haroonnadir"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" /></a>
+&nbsp;
+<a href="https://ko-fi.com/haroonnadir"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" alt="Ko-fi" /></a>
 
-### 🛠️ Languages and Tools
+</div>
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" />
-</p>
-
----
-
-### ☕ Support
-
-<p>
-  <a href="https://www.buymeacoffee.com/haroonnadir">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
-  <a href="https://ko-fi.com/haroonnadir">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haroonnadir&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f42c1,50:0e75b6,100:0d1117&height=130&section=footer" width="100%" alt="Footer" />
