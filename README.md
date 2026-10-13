@@ -69,18 +69,17 @@ I'm a **web & app developer from Pakistan** who loves building clean, fast and u
 
 <img src="https://streak-stats.demolab.com?user=haroonnadir&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=haroonnadir&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" alt="Activity graph" />
+<img src="https://ghchart.rshah.org/0e75b6/haroonnadir" width="95%" alt="Contribution chart" />
 
 </div>
 
 <br/>
 
-## 🏆 &nbsp;Trophies
+## 🏆 &nbsp;Profile Summary
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=haroonnadir&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=12" alt="Trophies" />
-  </a>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haroonnadir&theme=tokyonight" alt="Profile details" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haroonnadir&theme=tokyonight" alt="Most used languages" />
 </div>
 
 <br/>
