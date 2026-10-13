@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0e75b6,100:6f42c1&height=260&section=header&text=HAROON%20NADIR&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Web%20%26%20App%20Developer%20%E2%80%A2%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=62&descSize=20" alt="Haroon Nadir" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=240&section=header&text=HAROON%20NADIR&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Python%20%26%20Node.js%20Developer%20from%20Pakistan&descAlignY=62&descSize=20" alt="Haroon Nadir" />
 
 <a href="https://github.com/haroonnadir">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=640&lines=%3E+Full-stack+mindset%2C+clean+code+%E2%9C%A8;%3E+Working+with+Python+%26+Node.js+%F0%9F%90%8D;%3E+Learning+React+%26+Laravel;%3E+Turning+ideas+into+products+%F0%9F%9A%80;%3E+Always+learning%2C+always+shipping" alt="Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=640&lines=Full-stack+mindset%2C+clean+code+%E2%9C%A8;Working+with+Python+%26+Node.js+%F0%9F%90%8D;Learning+React+%26+Laravel;Turning+ideas+into+products+%F0%9F%9A%80;Always+learning%2C+always+shipping" alt="Typing" />
 </a>
 
 <br/><br/>
